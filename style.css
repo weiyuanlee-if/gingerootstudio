@@ -13,12 +13,16 @@ text-align: center;
     list-style-type: none;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: center;
 }
     
-}
-.flex-links {
-    display: flex;
+#nav-links {
+padding: 10px 10px 10px 10px;
+text-align: center;
+
+
+
+   
 }
 p {
     font-size: 100%;
@@ -41,6 +45,12 @@ padding-bottom: 0px;
 #emailname {
     text-align: center;
     margin-top: 0px;
+    margin-bottom: 0px;
+}
+#emailsubmit {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 
