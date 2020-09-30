@@ -24,16 +24,24 @@ p {
     font-size: 100%;
     line-height: 200%;
     margin: 100px 150px 100px 150px;
-    padding: 25px 25px 25px 25px; 
+    padding: 25px 25px 0px 25px; 
     
     
     
 }
 h1 {
     text-align: center;
-    padding: 25px 25px 25px 25px;
+    margin: 50px 150px 50px 150px;
+    padding: 50px 25px 0px 25px;
 }
- 
-   
+#emailhead { 
+margin-bottom: 0px;
+padding-bottom: 0px;
+}
+#emailname {
+    text-align: center;
+    margin-top: 0px;
+}
+
 
     
